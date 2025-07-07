@@ -2,9 +2,9 @@
 #### Web Developer
 ![Web Developer](https://scontent.fdac33-1.fna.fbcdn.net/v/t1.6435-9/186556723_1186736795090746_3740512349191304815_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeETKAMXgtE_7XqV0o8RXUcwDrEuO3xiSjMOsS47fGJKM0Cz9KuugwOzBOKPfbuj7fIH9Ysygg4w71GmFkV-vXSw&_nc_ohc=7B5tiib_-nEAX97mTqk&_nc_ht=scontent.fdac33-1.fna&oh=00_AfAaNkd2XTemVBEcf2761HRcdq8EwfaXcm3t07h-yKXz5g&oe=65A2DE84)
 
-I love to learn new skills. I am now learning Javascript. Full and fresh hand code is my power.
 
-Skills: java/c++ / JS / HTML / CSS
+
+
 
 - 🔭 I’m currently working on a project 
 - 🌱 I’m currently learning javascript 
